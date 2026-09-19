@@ -26,6 +26,3 @@ I enjoy anything with a spark plug, along with motorcycles, electronics, 3D prin
 ## Elsewhere
 
 - 🌐 Website: [www.ziegler-eu.de](https://www.ziegler-eu.de) — technology, smart home, radio and vehicles
-git add README.md
-git commit -m "Add profile README"
-gh repo create dezihh --public --source=. --remote=origin --push
